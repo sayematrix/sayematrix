@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#-systems-architecture--engine-flow">
-    <img src="https://img.shields.io/badge/CORE%20IDENTITY-Quant%20Finance%20%26%20Algo%20Trading-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="Core Identity" />
+    <img src="https://img.shields.io/badge/CORE%20IDENTITY-Quant%20Finance%20%26%20Algo-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="Core Identity" />
   </a>
   <a href="#-systems-architecture--engine-flow">
     <img src="https://img.shields.io/badge/CREATOR%20%26%20BUILDER-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" />
