@@ -1,44 +1,34 @@
 <div align="center">
+
 <!-- Hero Banner -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Founder%20%E2%80%A2%20Quant%20%E2%80%A2%20Developer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descSize=15" width="100%" alt="Sayem Banner" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Founder%20%E2%80%A2%20Quant%20%E2%80%A2%20Developer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descSize=15" width="100%" alt="SAYEM Banner" />
 
 <br />
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+deep+first-principles+research+into+ventures)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+Deep+First-Principles+Research+into+Ventures)](https://git.io/typing-svg)
 
 <p align="center">
-
-<a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/CORE IDENTITY-Quant Finance &%20Algorithmic Trading-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="SANR Corp" /></a>
-
-<a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/CREATOR & BUILDER-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
-
-<a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/FOCUS-Quant%20Finance-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Quant Finance" /></a>
-
-<a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Systems" /></a>
-
+  <a href="#-systems-architecture--engine-flow">
+    <img src="https://img.shields.io/badge/CORE%20IDENTITY-Quant%20Finance%20%26%20Algorithmic%20Trading-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="Core Identity" />
+  </a>
+  <a href="#-systems-architecture--engine-flow">
+    <img src="https://img.shields.io/badge/CREATOR%20%26%20BUILDER-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" />
+  </a>
+  <a href="#-core-focus--capabilities">
+    <img src="https://img.shields.io/badge/FOCUS-Quant%20Finance-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Quantitative Finance" />
+  </a>
+  <a href="#-core-focus--capabilities">
+    <img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Systems" />
+  </a>
 </p>
 
 </div>
 
-
-
 ---
 
-
-
-### 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
-
-
+## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
 
 <table width="100%">
-
 <tr>
 
 <td width="33.3%" align="center" valign="top">
@@ -52,19 +42,14 @@
 <b>Deep Intelligence Research</b>
 
 <p align="left">
-
 <sub>
 
 • Statistical & Data Research<br />
-
 • Predictive Intelligence & Pattern Discovery<br />
-
 • System Dynamics & Factor Analysis<br />
-
 • Applied AI & Machine Learning Models
 
 </sub>
-
 </p>
 
 </td>
@@ -80,19 +65,14 @@
 <b>Intelligent Systems Engineering</b>
 
 <p align="left">
-
 <sub>
 
 • Algorithmic Decision Systems<br />
-
 • High-Performance Data Processing<br />
-
 • Autonomous System Workflows<br />
-
 • Real-Time Risk & Reliability Frameworks
 
 </sub>
-
 </p>
 
 </td>
@@ -108,554 +88,302 @@
 <b>Scale & Infrastructure</b>
 
 <p align="left">
-
 <sub>
 
 • QYNTIQ<br />
-
 • Technology Ventures & Commercial Growth<br />
-
 • Proprietary Systems & Asset Development<br />
-
 • Digital Systems & Platform Development
 
 </sub>
-
 </p>
 
 </td>
 
 </tr>
-
 </table>
 
+---
 
-
-### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
-
-
+## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
-
-
 
 <table width="100%">
 
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  Programming Languages
-
-
+### Programming Languages
 
 <b>Python</b> • <b>C++</b> • <b>Java</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>HTML5</b> • <b>CSS3</b> • <b>MQL5</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,mql5&perline=8" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,mql5&perline=8" height="65" alt="Programming Languages" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  AI / Machine Learning
-
-
+### AI / Machine Learning
 
 <b>PyTorch</b> • <b>TensorFlow</b> • <b>Scikit-Learn</b> • <b>NumPy</b> • <b>Pandas</b> • <b>Jupyter</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=6" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=6" height="65" alt="AI and Machine Learning" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-<tr>
-
-<td width="65%" align="left">
-
-
-
-###  Quantitative Finance & Trading
-
-
+### Quantitative Finance & Trading
 
 <b>Quant Python</b> • <b>Quant C++</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
 
+</td>
 
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="55" alt="Python and C++" />
+
+<br />
+
+<img src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png" width="45" height="45" alt="MetaTrader 5" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### Backend / APIs
+
+<b>FastAPI</b> • <b>Flask</b> • <b>Node.js</b> • <b>REST APIs</b>
 
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="55" />
-
-<img src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png" width="45" height="45" style="border-radius:50%; object-fit:cover;" alt="MetaTrader 5" />
-
-
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="65" alt="Backend and APIs" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-
-
-
-
-###  Backend / APIs
-
-
-
-<b>FastAPI</b> • <b>Flask</b> • <b>Node.js</b> • <b>REST API</b>
-
-
-
-</td>
-
-<td width="35%" align="right">
-
-
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="65" />
-
-
-
-</td>
-
-</tr>
-
-
-
-<tr>
-
-<td width="65%" align="left">
-
-
-
-###  Databases
-
-
+### Databases
 
 <b>PostgreSQL</b> • <b>MySQL</b> • <b>SQLite</b> • <b>MongoDB</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="65" alt="Databases" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  Development & DevOps
-
-
+### Development & DevOps
 
 <b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Linux</b> • <b>GitHub Actions</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5" height="65" alt="Development and DevOps" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  Cloud & Infrastructure
-
-
+### Cloud & Infrastructure
 
 <b>AWS</b> • <b>Google Cloud</b> • <b>Vercel</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="65" alt="Cloud and Infrastructure" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  Frontend
-
-
+### Frontend
 
 <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="65" alt="Frontend" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  Productivity & Knowledge Systems
-
-
+### Productivity & Knowledge Systems
 
 <b>Notion</b> • <b>Obsidian</b> • <b>VS Code</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
-
-
-<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="65" />
-
-
+<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="65" alt="Productivity and Knowledge Systems" />
 
 </td>
-
 </tr>
 
-
-
 <tr>
-
 <td width="65%" align="left">
 
-
-
-###  Automation & Systems
-
-
+### Automation & Systems
 
 <b>n8n</b> • <b>Zapier</b> • <b>Make</b>
 
-
-
 </td>
 
 <td width="35%" align="right">
 
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" alt="n8n" />
 
+<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="35" alt="Zapier" />
 
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
-
-<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="35" />
-
-<img src="https://img.shields.io/badge/MAKE-FF4A00?style=for-the-badge&logo=make&logoColor=white" height="35" />
-
-
-
-
-
-
+<img src="https://img.shields.io/badge/MAKE-FF4A00?style=for-the-badge&logo=make&logoColor=white" height="35" alt="Make" />
 
 </td>
-
 </tr>
-
-
 
 </table>
 
-
+</div>
 
 ---
 
-
-
-###  𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇 𝐏𝐀𝐏𝐄𝐑
-
-
+## 𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇 & 𝐏𝐀𝐏𝐄𝐑𝐒
 
 <div align="center">
-
-
 
 <a href="https://zenodo.org/">
-
-<img src="https://img.shields.io/badge/Zenodo-sayematrix-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Zenodo-sayematrix-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" />
 </a>
-
-
 
 <a href="https://github.com/sayematrix">
-
-<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-
 
 <a href="https://www.ssrn.com/">
-
-<img src="https://img.shields.io/badge/SSRN-sayematrix-154734?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/SSRN-sayematrix-154734?style=for-the-badge&logoColor=white" alt="SSRN" />
 </a>
-
-
 
 <a href="https://osf.io/">
-
-<img src="https://img.shields.io/badge/OSF-sayematrix-2D6CDF?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/OSF-sayematrix-2D6CDF?style=for-the-badge&logoColor=white" alt="OSF" />
 </a>
-
-
 
 <a href="https://arxiv.org/">
-
-<img src="https://img.shields.io/badge/arXiv-sayematrix-B31B1B?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/arXiv-sayematrix-B31B1B?style=for-the-badge&logoColor=white" alt="arXiv" />
 </a>
-
-
 
 <a href="https://orcid.org/0009-0000-4502-5605">
-
-<img src="https://img.shields.io/badge/ORCID-sayematrix-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-
+<img src="https://img.shields.io/badge/ORCID-sayematrix-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
 </a>
-
-
 
 <a href="https://www.researchsquare.com/">
-
-<img src="https://img.shields.io/badge/Research%20Square-sayematrix-2E7D32?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Research%20Square-sayematrix-2E7D32?style=for-the-badge&logoColor=white" alt="Research Square" />
 </a>
-
-
 
 <a href="https://sciprofiles.com/">
-
-<img src="https://img.shields.io/badge/SciProfiles-sayematrix-1565C0?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/SciProfiles-sayematrix-1565C0?style=for-the-badge&logoColor=white" alt="SciProfiles" />
 </a>
-
-
 
 <a href="https://www.researchgate.net/profile/sayematrix">
-
-<img src="https://img.shields.io/badge/ResearchGate-sayematrix-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-
+<img src="https://img.shields.io/badge/ResearchGate-sayematrix-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
-
-
 
 <a href="https://scholar.google.com/">
-
-<img src="https://img.shields.io/badge/Google%20Scholar-sayematrix-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Google%20Scholar-sayematrix-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
 </a>
 
-
-
 </div>
-
-
 
 ---
 
-
-
-###  𝐀𝐑𝐓𝐈𝐂𝐋𝐄
-
-
+## 𝐀𝐑𝐓𝐈𝐂𝐋𝐄𝐒 & 𝐏𝐔𝐁𝐋𝐈𝐒𝐇𝐈𝐍𝐆
 
 <div align="center">
 
-
-
 <a href="https://medium.com/@sayematrix">
-
-<img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-
-
 
 <a href="https://sayematrix.substack.com/">
-
-<img src="https://img.shields.io/badge/Substack-sayematrix-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Substack-sayematrix-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
 </a>
-
-
 
 <a href="https://www.linkedin.com/in/sayematrix/">
-
-<img src="https://img.shields.io/badge/LinkedIn-sayematrix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+<img src="https://img.shields.io/badge/LinkedIn-sayematrix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-
 
 <a href="https://x.com/sayematrix">
-
-<img src="https://img.shields.io/badge/X-sayematrix-000000?style=for-the-badge&logo=x&logoColor=white" />
-
+<img src="https://img.shields.io/badge/X-sayematrix-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-
-
 
 <a href="https://dev.to/sayematrix">
-
-<img src="https://img.shields.io/badge/DEV-sayematrix-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-
+<img src="https://img.shields.io/badge/DEV-sayematrix-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
 </a>
-
-
 
 <a href="https://hashnode.com/@sayematrix">
-
-<img src="https://img.shields.io/badge/Hashnode-sayematrix-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Hashnode-sayematrix-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
 </a>
-
-
 
 <a href="https://imgwrite.com/">
-
-<img src="https://img.shields.io/badge/IMG%20Write-sayematrix-111111?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/IMG%20Write-sayematrix-111111?style=for-the-badge&logoColor=white" alt="IMG Write" />
 </a>
-
-
 
 <a href="https://towardsdatascience.com/">
-
-<img src="https://img.shields.io/badge/Towards%20Data%20Science-sayematrix-FE5A1D?style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Towards%20Data%20Science-sayematrix-FE5A1D?style=for-the-badge&logoColor=white" alt="Towards Data Science" />
 </a>
-
-
 
 <a href="https://www.quora.com/profile/sayematrix">
-
-<img src="https://img.shields.io/badge/Quora-sayematrix-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Quora-sayematrix-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
 </a>
-
-
 
 <a href="https://www.reddit.com/user/sayematrix/">
-
-<img src="https://img.shields.io/badge/Reddit-sayematrix-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Reddit-sayematrix-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
-
-
 
 </div>
 
+---
+
 <!-- Footer Wave -->
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
 
+</div>
