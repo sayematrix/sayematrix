@@ -26,85 +26,93 @@
 
 ---
 
-## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
-
-<p align="left">
-
-I'm <b>SAYEM</b> — an entrepreneur, quantitative systems builder, and software engineer focused on the intersection of <b>Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering</b>.
-
-I research financial markets, design quantitative models, and build intelligent software systems that transform <b>data → intelligence → decisions → automated systems</b>.
-
-My work sits across quantitative research, financial modeling, algorithmic trading, AI-driven systems, automation, software architecture, and technology ventures.
-
-Through <b>QYNTIQ</b>, I am building toward a technology company focused on intelligent financial systems, quantitative technologies, and software infrastructure.
-
-I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a place where I organize research, learning, experiments, ideas, and long-term projects.
-
-My long-term direction is simple:
-
-<b>Research deeply. Build intelligently. Systemize everything. Create lasting value.</b>
-
-</p>
-
-### 𝐂𝐎𝐑𝐄 𝐃𝐈𝐑𝐄𝐂𝐓𝐈𝐎𝐍
+## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
 
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td width="33.3%" align="center" valign="top">
+
 <br />
-<b>📊 QUANT</b>
+
+<img src="https://img.shields.io/badge/PHASE%2001-INTELLIGENCE%20LAB-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Intelligence Lab" />
+
 <br /><br />
+
+<b>Deep Intelligence Research</b>
+
+<p align="left">
 <sub>
-Quantitative Finance<br />
-Algorithmic Trading<br />
-Financial Modeling<br />
-Quantitative Research
+
+• Statistical & Data Research<br />
+• Predictive Intelligence & Pattern Discovery<br />
+• System Dynamics & Factor Analysis<br />
+• Applied AI & Machine Learning Models
+
 </sub>
-<br /><br />
+</p>
+
 </td>
 
-<td width="25%" align="center">
+<td width="33.3%" align="center" valign="top">
+
 <br />
-<b>🤖 AI</b>
+
+<img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
+
 <br /><br />
+
+<b>Intelligent Systems Engineering</b>
+
+<p align="left">
 <sub>
-Artificial Intelligence<br />
-Machine Learning<br />
-AI Automation<br />
-Intelligent Systems
+
+• Algorithmic Decision Systems<br />
+• High-Performance Data Processing<br />
+• Autonomous System Workflows<br />
+• Real-Time Risk & Reliability Frameworks
+
 </sub>
-<br /><br />
+</p>
+
 </td>
 
-<td width="25%" align="center">
-<br />
-<b>⚙️ SYSTEMS</b>
-<br /><br />
-<sub>
-Software Engineering<br />
-System Architecture<br />
-Systems Engineering<br />
-Automation
-</sub>
-<br /><br />
-</td>
+<td width="33.3%" align="center" valign="top">
 
-<td width="25%" align="center">
 <br />
-<b>🚀 VENTURES</b>
+
+<img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
+
 <br /><br />
+
+<b>Scale & Infrastructure</b>
+
+<p align="left">
 <sub>
-QYNTIQ<br />
-Technology Products<br />
-Digital Infrastructure<br />
-Entrepreneurship
+
+• QYNTIQ<br />
+• Technology Ventures & Commercial Growth<br />
+• Proprietary Systems & Asset Development<br />
+• Digital Systems & Platform Development
+
 </sub>
-<br /><br />
+</p>
+
 </td>
 
 </tr>
 </table>
+
+---
+
+## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
+
+<div align="center">
+
+<table width="100%">
+
+<tr>
+<td width="65%" align="left">
 
 ### Programming Languages
 
