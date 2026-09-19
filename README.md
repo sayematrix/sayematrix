@@ -26,82 +26,25 @@
 
 ---
 
-## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
-
-<table width="100%">
-<tr>
-
-<td width="33.3%" align="center" valign="top">
-
-<br />
-
-<img src="https://img.shields.io/badge/PHASE%2001-INTELLIGENCE%20LAB-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Intelligence Lab" />
-
-<br /><br />
-
-<b>Deep Intelligence Research</b>
+## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
 <p align="left">
-<sub>
 
-• Statistical & Data Research<br />
-• Predictive Intelligence & Pattern Discovery<br />
-• System Dynamics & Factor Analysis<br />
-• Applied AI & Machine Learning Models
+I'm <b>SAYEM</b> — an entrepreneur, quantitative systems builder, and software engineer focused on the intersection of <b>Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering</b>.
 
-</sub>
+I research financial markets, design quantitative models, and build intelligent software systems that transform <b>data → intelligence → decisions → automated systems</b>.
+
+My work sits across quantitative research, financial modeling, algorithmic trading, AI-driven systems, automation, software architecture, and technology ventures.
+
+Through <b>QYNTIQ</b>, I am building toward a technology company focused on intelligent financial systems, quantitative technologies, and software infrastructure.
+
+I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a place where I organize research, learning, experiments, ideas, and long-term projects.
+
+My long-term direction is simple:
+
+<b>Research deeply. Build intelligently. Systemize everything. Create lasting value.</b>
+
 </p>
-
-</td>
-
-<td width="33.3%" align="center" valign="top">
-
-<br />
-
-<img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
-
-<br /><br />
-
-<b>Intelligent Systems Engineering</b>
-
-<p align="left">
-<sub>
-
-• Algorithmic Decision Systems<br />
-• High-Performance Data Processing<br />
-• Autonomous System Workflows<br />
-• Real-Time Risk & Reliability Frameworks
-
-</sub>
-</p>
-
-</td>
-
-<td width="33.3%" align="center" valign="top">
-
-<br />
-
-<img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
-
-<br /><br />
-
-<b>Scale & Infrastructure</b>
-
-<p align="left">
-<sub>
-
-• QYNTIQ<br />
-• Technology Ventures & Commercial Growth<br />
-• Proprietary Systems & Asset Development<br />
-• Digital Systems & Platform Development
-
-</sub>
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
