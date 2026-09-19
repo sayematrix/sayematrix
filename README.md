@@ -25,6 +25,24 @@
 </div>
 
 ---
+
+## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+
+<p align="left">
+
+I'm <b>SAYEM</b> — an entrepreneur, quantitative systems builder, and software engineer focused on the intersection of <b>Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering</b>.
+
+I research financial markets, design quantitative models, and build intelligent software systems that transform <b>data → intelligence → decisions → automated systems</b>.
+
+My work sits across quantitative research, financial modeling, algorithmic trading, AI-driven systems, automation, software architecture, and technology ventures.
+
+Through <b>QYNTIQ</b>, I am building toward a technology company focused on intelligent financial systems, quantitative technologies, and software infrastructure.
+
+I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a place where I organize research, learning, experiments, ideas, and long-term projects.
+
+</p>
+
+---
 ## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
 
 <table width="100%">
@@ -95,24 +113,6 @@
 
 </tr>
 </table>
-
-## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
-
-<p align="left">
-
-I'm <b>SAYEM</b> — an entrepreneur, quantitative systems builder, and software engineer focused on the intersection of <b>Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering</b>.
-
-I research financial markets, design quantitative models, and build intelligent software systems that transform <b>data → intelligence → decisions → automated systems</b>.
-
-My work sits across quantitative research, financial modeling, algorithmic trading, AI-driven systems, automation, software architecture, and technology ventures.
-
-Through <b>QYNTIQ</b>, I am building toward a technology company focused on intelligent financial systems, quantitative technologies, and software infrastructure.
-
-I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a place where I organize research, learning, experiments, ideas, and long-term projects.
-
-</p>
-
----
 
 ## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
