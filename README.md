@@ -40,10 +40,6 @@ Through <b>QYNTIQ</b>, I am building toward a technology company focused on inte
 
 I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a place where I organize research, learning, experiments, ideas, and long-term projects.
 
-My long-term direction is simple:
-
-<b>Research deeply. Build intelligently. Systemize everything. Create lasting value.</b>
-
 </p>
 
 ---
