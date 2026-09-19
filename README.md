@@ -1,7 +1,4 @@
 <div align="center">
-
-
-
 <!-- Hero Banner -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Founder%20%E2%80%A2%20Quant%20%E2%80%A2%20Developer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descSize=15" width="100%" alt="Sayem Banner" />
