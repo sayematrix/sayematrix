@@ -25,6 +25,76 @@
 </div>
 
 ---
+## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
+
+<table width="100%">
+<tr>
+
+<td width="33.3%" align="center" valign="top">
+
+<br />
+
+<img src="https://img.shields.io/badge/PHASE%2001-INTELLIGENCE%20LAB-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Intelligence Lab" />
+
+<br /><br />
+
+<b>Deep Intelligence Research</b>
+
+<p align="left">
+<sub>
+• Statistical &amp; Data Research<br />
+• Predictive Intelligence &amp; Pattern Discovery<br />
+• System Dynamics &amp; Factor Analysis<br />
+• Applied AI &amp; Machine Learning Models
+</sub>
+</p>
+
+</td>
+
+<td width="33.3%" align="center" valign="top">
+
+<br />
+
+<img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
+
+<br /><br />
+
+<b>Intelligent Systems Engineering</b>
+
+<p align="left">
+<sub>
+• Algorithmic Decision Systems<br />
+• High-Performance Data Processing<br />
+• Autonomous System Workflows<br />
+• Real-Time Risk &amp; Reliability Frameworks
+</sub>
+</p>
+
+</td>
+
+<td width="33.3%" align="center" valign="top">
+
+<br />
+
+<img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
+
+<br /><br />
+
+<b>Scale &amp; Infrastructure</b>
+
+<p align="left">
+<sub>
+• QYNTIQ<br />
+• Technology Ventures &amp; Commercial Growth<br />
+• Proprietary Systems &amp; Asset Development<br />
+• Digital Systems &amp; Platform Development
+</sub>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
