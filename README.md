@@ -50,11 +50,9 @@ I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a pla
 
 <td width="33.3%" align="center" valign="top">
 
-<br />
-
 <img src="https://img.shields.io/badge/PHASE%2001-INTELLIGENCE%20LAB-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Intelligence Lab" />
 
-<br /><br />
+<br />
 
 <b>Deep Intelligence Research</b>
 
@@ -71,11 +69,9 @@ I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a pla
 
 <td width="33.3%" align="center" valign="top">
 
-<br />
-
 <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
 
-<br /><br />
+<br />
 
 <b>Intelligent Systems Engineering</b>
 
@@ -92,11 +88,9 @@ I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a pla
 
 <td width="33.3%" align="center" valign="top">
 
-<br />
-
 <img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
 
-<br /><br />
+<br />
 
 <b>Scale &amp; Infrastructure</b>
 
@@ -113,7 +107,6 @@ I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a pla
 
 </tr>
 </table>
-
 ## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
