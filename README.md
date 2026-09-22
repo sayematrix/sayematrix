@@ -5,7 +5,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+Deep+First-Principles+Research+into+Ventures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+QYNTIQ;Architecting+the+SAYEMATRIX+Ecosystem;Turning+Deep+First-Principles+Research+into+Ventures)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="#-systems-architecture--engine-flow">
