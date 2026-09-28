@@ -28,19 +28,17 @@
 
 ## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-<p align="left">
+I’m **SAYEM** — an entrepreneur, software engineer, and quantitative systems builder focused on **Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering**.
 
-I'm <b>SAYEM</b> — an entrepreneur, quantitative systems builder, and software engineer focused on the intersection of <b>Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering</b>.
+My work centers on the design and development of **intelligent financial and technology systems** that integrate quantitative research, financial modeling, data, software engineering, automation, and artificial intelligence.
 
-I research financial markets, design quantitative models, and build intelligent software systems that transform <b>data → intelligence → decisions → automated systems</b>.
+I operate across **quantitative research, algorithmic trading, AI systems, financial technology, software architecture, and technology ventures**, with a focus on building scalable systems and translating complex problems into engineered solutions.
 
-My work sits across quantitative research, financial modeling, algorithmic trading, AI-driven systems, automation, software architecture, and technology ventures.
+Through **QYNTIQ**, I am developing a technology company focused on **intelligent financial systems, quantitative technologies, AI-driven infrastructure, and scalable software products**.
 
-Through <b>QYNTIQ</b>, I am building toward a technology company focused on intelligent financial systems, quantitative technologies, and software infrastructure.
+**SAYEMATRIX** serves as my personal knowledge and systems framework for organizing research, technical development, strategic thinking, experiments, and long-term projects.
 
-I use <b>SAYEMATRIX</b> as my personal knowledge and systems framework — a place where I organize research, learning, experiments, ideas, and long-term projects.
-
-</p>
+My focus is on **building technology, developing systems, and creating companies designed for long-term scale.**
 
 ---
 ## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
