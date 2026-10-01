@@ -105,7 +105,7 @@ My focus is on **building technology, developing systems, and creating companies
 
 </tr>
 </table>
-## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
+ 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
 
