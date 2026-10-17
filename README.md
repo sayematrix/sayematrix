@@ -1,221 +1,278 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Founder%20%E2%80%A2%20Quant%20%E2%80%A2%20Developer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descSize=15" width="100%" alt="SAYEM Banner" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Founder%20%E2%80%A2%20Quant%20%E2%80%A2%20Developer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descSize=15" width="100%" alt="SAYEM Banner" />
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+AI;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+QYNTIQ;Building+Intelligent+Technology+Systems;Research+%E2%80%A2+Engineer+%E2%80%A2+Build+%E2%80%A2+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+AI;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+QYNTIQ;Architecting+the+SAYEMATRIX+Ecosystem;Turning+Deep+First-Principles+Research+into+Ventures)](https://git.io/typing-svg)
 
-[![Quant Finance](https://img.shields.io/badge/CORE-Quant%20Finance-00D26A?style=flat-square&logo=target&logoColor=white)](https://github.com/sayematrix)
-[![AI Systems](https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=flat-square&logo=openai&logoColor=white)](https://github.com/sayematrix)
-[![GitHub](https://img.shields.io/badge/GitHub-sayematrix-181717?style=flat-square&logo=github)](https://github.com/sayematrix)
+<p align="center">
+  <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/CORE%20IDENTITY-Quant%20Finance-00D26A?style=flat-square&logo=target&logoColor=white" alt="Core Identity" /></a>
+  <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/CREATOR%20%26%20BUILDER-SAYEMATRIX-FF5722?style=flat-square&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
+  <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/FOCUS-Quant%20Finance-0969DA?style=flat-square&logo=tradingview&logoColor=white" alt="Quantitative Finance" /></a>
+  <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI & Systems" /></a>
+</p>
 
 </div>
 
----
 
 ## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-I'm **SAYEM** — an entrepreneur, software engineer, and quantitative systems builder focused on **Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering**.
+I’m **SAYEM** — an entrepreneur, software engineer, and quantitative systems builder focused on **Quantitative Finance, Algorithmic Trading, Artificial Intelligence, and Systems Engineering**.
 
-My work centers on designing and developing intelligent financial and technology systems that integrate quantitative research, financial modeling, data engineering, software development, automation, and artificial intelligence.
+My work centers on the design and development of **intelligent financial and technology systems** that integrate quantitative research, financial modeling, data, software engineering, automation, and artificial intelligence.
 
-I explore the intersection of:
+I operate across **quantitative research, algorithmic trading, AI systems, financial technology, software architecture, and technology ventures**, with a focus on building scalable systems and translating complex problems into engineered solutions.
 
-- **Quantitative Finance:** Financial modeling, quantitative research, risk management, and portfolio systems.
-- **Algorithmic Trading:** Strategy research, systematic execution, backtesting, and trading system development.
-- **AI & Machine Learning:** Intelligent applications, predictive modeling, and AI-powered workflows.
-- **Software Engineering:** Backend systems, APIs, databases, architecture, and scalable applications.
-- **Systems Engineering:** Automation, infrastructure, performance, reliability, and integrated technology systems.
-- **Entrepreneurship:** Developing software products, technology ventures, and sustainable business systems.
-
-Through **QYNTIQ**, my long-term vision is to build technology products at the intersection of AI, quantitative technologies, financial intelligence, and scalable software.
+Through **QYNTIQ**, I am developing a technology company focused on **intelligent financial systems, quantitative technologies, AI-driven infrastructure, and scalable software products**.
 
 **SAYEMATRIX** serves as my personal knowledge and systems framework for organizing research, technical development, strategic thinking, experiments, and long-term projects.
 
-My mission is to **research deeply, engineer intelligently, build systematically, and create sustainable ventures.**
+My focus is on **building technology, developing systems, and creating companies designed for long-term scale.**
 
 ---
-
 ## 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+
+<td width="33.3%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/PHASE%2001-INTELLIGENCE%20LAB-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Intelligence Lab" />
 
-### Research
+<br />
 
+<b>Deep Intelligence Research</b>
+
+<p align="left">
 <sub>
-
-Statistical Research
-
-Quantitative Analysis
-
-Pattern Discovery
-
-AI & Machine Learning
-
-Financial Modeling
-
+• Statistical &amp; Data Research<br />
+• Predictive Intelligence &amp; Pattern Discovery<br />
+• System Dynamics &amp; Factor Analysis<br />
+• Applied AI &amp; Machine Learning Models
 </sub>
+</p>
 
 </td>
-<td width="33%" align="center" valign="top">
+
+<td width="33.3%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
 
-### Engineering
+<br />
 
+<b>Intelligent Systems Engineering</b>
+
+<p align="left">
 <sub>
-
-Algorithmic Systems
-
-Software Architecture
-
-Data Processing
-
-Automation Workflows
-
-Risk & Reliability
-
+• Algorithmic Decision Systems<br />
+• High-Performance Data Processing<br />
+• Autonomous System Workflows<br />
+• Real-Time Risk &amp; Reliability Frameworks
 </sub>
+</p>
 
 </td>
-<td width="33%" align="center" valign="top">
+
+<td width="33.3%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
 
-### Scale
+<br />
 
+<b>Scale &amp; Infrastructure</b>
+
+<p align="left">
 <sub>
-
-QYNTIQ
-
-Software Products
-
-Technology Infrastructure
-
-Digital Assets
-
-Business Development
-
+• QYNTIQ<br />
+• Technology Ventures &amp; Commercial Growth<br />
+• Proprietary Systems &amp; Asset Development<br />
+• Digital Systems &amp; Platform Development
 </sub>
+</p>
 
 </td>
+
 </tr>
 </table>
+ 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
----
+<div align="center">
 
-## 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
+<table width="100%">
+
+<tr>
+<td width="65%" align="left">
 
 ### Programming Languages
 
-**Python · C++ · Java · JavaScript · TypeScript · HTML5 · CSS3 · MQL5**
+<b>Python</b> • <b>C++</b> • <b>Java</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>HTML5</b> • <b>CSS3</b> • <b>MQL5</b>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,mql5&perline=8" alt="Programming Languages" />
-</p>
+</td>
 
-### AI & Machine Learning
+<td width="35%" align="right">
 
-**PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · Jupyter**
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,mql5&perline=8" height="65" alt="Programming Languages" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=6" alt="AI and Machine Learning" />
-</p>
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### AI / Machine Learning
+
+<b>PyTorch</b> • <b>TensorFlow</b> • <b>Scikit-Learn</b> • <b>NumPy</b> • <b>Pandas</b> • <b>Jupyter</b>
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=6" height="65" alt="AI and Machine Learning" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
 
 ### Quantitative Finance & Trading
 
-**Quantitative Python · Quantitative C++ · MetaTrader 5 · Algorithmic Trading**
+<b>Quant Python</b> • <b>Quant C++</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" alt="Quantitative Programming" />
-</p>
+</td>
 
-### Backend & APIs
+<td width="35%" align="right">
 
-**FastAPI · Flask · Node.js · REST APIs**
+<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="55" alt="Python and C++" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" alt="Backend Technologies" />
-</p>
+<br />
+
+<img src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png" width="45" height="45" alt="MetaTrader 5" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### Backend / APIs
+
+<b>FastAPI</b> • <b>Flask</b> • <b>Node.js</b> • <b>REST APIs</b>
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="65" alt="Backend and APIs" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
 
 ### Databases
 
-**PostgreSQL · MySQL · SQLite · MongoDB**
+<b>PostgreSQL</b> • <b>MySQL</b> • <b>SQLite</b> • <b>MongoDB</b>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" alt="Databases" />
-</p>
+</td>
 
-### Backend Platforms & BaaS
+<td width="35%" align="right">
 
-**Supabase · Firebase**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="65" alt="Databases" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,firebase&perline=2" alt="Supabase and Firebase" />
-</p>
+</td>
+</tr>
 
-### Frontend Development
-
-**React · Next.js · Tailwind CSS**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" alt="Frontend Technologies" />
-</p>
-
-### Cloud & Infrastructure
-
-**AWS · Google Cloud · Cloudflare · Vercel**
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel&perline=4" alt="Cloud Infrastructure" />
-</p>
+<tr>
+<td width="65%" align="left">
 
 ### Development & DevOps
 
-**Git · GitHub · Docker · Linux · GitHub Actions**
+<b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Linux</b> • <b>GitHub Actions</b>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5" alt="Development and DevOps" />
-</p>
+</td>
 
-### Automation & Workflow Engineering
+<td width="35%" align="right">
 
-**n8n · Zapier · Make**
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5" height="65" alt="Development and DevOps" />
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-<img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
-</p>
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### Cloud & Infrastructure
+
+<b>AWS</b> • <b>Google Cloud</b> • <b>Vercel</b>
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="65" alt="Cloud and Infrastructure" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### Frontend
+
+<b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b>
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="65" alt="Frontend" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
 
 ### Productivity & Knowledge Systems
 
-**Notion · Obsidian · Visual Studio Code**
+<b>Notion</b> • <b>Obsidian</b> • <b>VS Code</b>
 
-<p>
-<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" alt="Productivity and Knowledge Systems" />
-</p>
+</td>
 
----
+<td width="35%" align="right">
 
-## 𝐂𝐎𝐑𝐄 𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇 𝐃𝐎𝐌𝐀𝐈𝐍𝐒
+<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="65" alt="Productivity and Knowledge Systems" />
 
-| Domain | Research & Engineering Focus |
-|---|---|
-| Quantitative Finance | Quantitative research, financial modeling, portfolio analytics |
-| Algorithmic Trading | Strategy development, backtesting, execution, risk controls |
-| Artificial Intelligence | Machine learning, predictive models, AI applications |
-| Software Engineering | APIs, backend systems, architecture, software design |
-| Data Engineering | Data pipelines, processing, analytics, data quality |
-| Systems Engineering | Reliability, automation, integration, performance |
-| Financial Technology | Intelligent financial applications and quantitative tools |
-| Entrepreneurship | Product development, business systems, technology ventures |
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### Automation & Systems
+
+<b>n8n</b> • <b>Zapier</b> • <b>Make</b>
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" alt="n8n" />
+
+<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="35" alt="Zapier" />
+
+<img src="https://img.shields.io/badge/MAKE-FF4A00?style=for-the-badge&logo=make&logoColor=white" height="35" alt="Make" />
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -223,15 +280,45 @@ Business Development
 
 <div align="center">
 
-<a href="https://zenodo.org/"><img src="https://img.shields.io/badge/Zenodo-Research-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" /></a>
-<a href="https://www.ssrn.com/"><img src="https://img.shields.io/badge/SSRN-Papers-154734?style=for-the-badge&logoColor=white" alt="SSRN" /></a>
-<a href="https://osf.io/"><img src="https://img.shields.io/badge/OSF-Open%20Science-2D6CDF?style=for-the-badge&logoColor=white" alt="OSF" /></a>
-<a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-Research-B31B1B?style=for-the-badge&logoColor=white" alt="arXiv" /></a>
-<a href="https://orcid.org/0009-0000-4502-5605"><img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-<a href="https://www.researchsquare.com/"><img src="https://img.shields.io/badge/Research%20Square-Papers-2E7D32?style=for-the-badge&logoColor=white" alt="Research Square" /></a>
-<a href="https://sciprofiles.com/"><img src="https://img.shields.io/badge/SciProfiles-Research-1565C0?style=for-the-badge&logoColor=white" alt="SciProfiles" /></a>
-<a href="https://www.researchgate.net/profile/sayematrix"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://zenodo.org/">
+<img src="https://img.shields.io/badge/Zenodo-sayematrix-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" />
+</a>
+
+<a href="https://github.com/sayematrix">
+<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.ssrn.com/">
+<img src="https://img.shields.io/badge/SSRN-sayematrix-154734?style=for-the-badge&logoColor=white" alt="SSRN" />
+</a>
+
+<a href="https://osf.io/">
+<img src="https://img.shields.io/badge/OSF-sayematrix-2D6CDF?style=for-the-badge&logoColor=white" alt="OSF" />
+</a>
+
+<a href="https://arxiv.org/">
+<img src="https://img.shields.io/badge/arXiv-sayematrix-B31B1B?style=for-the-badge&logoColor=white" alt="arXiv" />
+</a>
+
+<a href="https://orcid.org/0009-0000-4502-5605">
+<img src="https://img.shields.io/badge/ORCID-sayematrix-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+
+<a href="https://www.researchsquare.com/">
+<img src="https://img.shields.io/badge/Research%20Square-sayematrix-2E7D32?style=for-the-badge&logoColor=white" alt="Research Square" />
+</a>
+
+<a href="https://sciprofiles.com/">
+<img src="https://img.shields.io/badge/SciProfiles-sayematrix-1565C0?style=for-the-badge&logoColor=white" alt="SciProfiles" />
+</a>
+
+<a href="https://www.researchgate.net/profile/sayematrix">
+<img src="https://img.shields.io/badge/ResearchGate-sayematrix-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+</a>
+
+<a href="https://scholar.google.com/">
+<img src="https://img.shields.io/badge/Google%20Scholar-sayematrix-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
 
 </div>
 
@@ -241,46 +328,53 @@ Business Development
 
 <div align="center">
 
-<a href="https://medium.com/@sayematrix"><img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://sayematrix.substack.com/"><img src="https://img.shields.io/badge/Substack-sayematrix-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
-<a href="https://www.linkedin.com/in/sayematrix/"><img src="https://img.shields.io/badge/LinkedIn-sayematrix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/sayematrix"><img src="https://img.shields.io/badge/X-sayematrix-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://dev.to/sayematrix"><img src="https://img.shields.io/badge/DEV-Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" /></a>
-<a href="https://hashnode.com/@sayematrix"><img src="https://img.shields.io/badge/Hashnode-sayematrix-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-<a href="https://www.quora.com/profile/sayematrix"><img src="https://img.shields.io/badge/Quora-sayematrix-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
-<a href="https://www.reddit.com/user/sayematrix/"><img src="https://img.shields.io/badge/Reddit-sayematrix-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-<a href="https://towardsdatascience.com/"><img src="https://img.shields.io/badge/Towards%20Data%20Science-Publishing-FE5A1D?style=for-the-badge&logoColor=white" alt="Towards Data Science" /></a>
+<a href="https://medium.com/@sayematrix">
+<img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
 
-</div>
-
----
-
-## 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
-
-<div align="center">
-
-<a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<a href="https://sayematrix.substack.com/">
+<img src="https://img.shields.io/badge/Substack-sayematrix-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
 </a>
 
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+<img src="https://img.shields.io/badge/LinkedIn-sayematrix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://x.com/sayematrix">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
+<img src="https://img.shields.io/badge/X-sayematrix-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<a href="https://dev.to/sayematrix">
+<img src="https://img.shields.io/badge/DEV-sayematrix-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
+</a>
+
+<a href="https://hashnode.com/@sayematrix">
+<img src="https://img.shields.io/badge/Hashnode-sayematrix-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
+
+<a href="https://imgwrite.com/">
+<img src="https://img.shields.io/badge/IMG%20Write-sayematrix-111111?style=for-the-badge&logoColor=white" alt="IMG Write" />
+</a>
+
+<a href="https://towardsdatascience.com/">
+<img src="https://img.shields.io/badge/Towards%20Data%20Science-sayematrix-FE5A1D?style=for-the-badge&logoColor=white" alt="Towards Data Science" />
+</a>
+
+<a href="https://www.quora.com/profile/sayematrix">
+<img src="https://img.shields.io/badge/Quora-sayematrix-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+</a>
+
+<a href="https://www.reddit.com/user/sayematrix/">
+<img src="https://img.shields.io/badge/Reddit-sayematrix-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
 
 </div>
 
 ---
 
+<!-- Footer Wave -->
 <div align="center">
 
-### RESEARCH • CREATE • CODE • BUILD • SCALE • INVEST
-
-*Turning ideas into intelligent systems and sustainable ventures.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
